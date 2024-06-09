@@ -1,2 +1,2 @@
-# Python
-Python Programming Concepts in Jupiter notebook.
+# Python Programming
+Concepts are wrtten in Jupiter notebook.
