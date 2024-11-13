@@ -10,7 +10,7 @@ def bfs(g,n):
     visited[n] = True
 
     printed_graph = list()
-
+ 
     while len(q) != 0:
 
         s = q[0]
